@@ -1,14 +1,17 @@
 {
   "gp_taxSystem_QB": {
-    "newestVersion": "1.0.2",
+    "newestVersion": "1.0.3",
     "changelogs": {
       "new": [
-        "➥ Added EMail for Quasar phone to notify players that taxes have been deducted"
+        "➥ Added EMail for Quasar phone to notify players that taxes have been deducted",
+        "➥ Added locals for client all menus"
       ],
       "fix": [
         "➥ Negatively calculated tax should no longer occur"
       ],
-      "changes":[]
+      "changes":[
+        "➥ All menu-related client files are now unencrypted"
+      ]
     }
   }
 }
