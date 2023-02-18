@@ -2,8 +2,12 @@
   "gp_taxSystem_QB": {
     "newestVersion": "1.0.2",
     "changelogs": {
-      "new": [],
-      "fix": [],
+      "new": [
+        "➥ Added EMail for Quasar phone to notify players that taxes have been deducted"
+      ],
+      "fix": [
+        "➥ Negatively calculated tax should no longer occur"
+      ],
       "changes":[]
     }
   }
