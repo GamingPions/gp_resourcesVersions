@@ -1,3 +1,10 @@
 {
-  "gp_taxSystem_QB": []
+  "gp_taxSystem_QB": {
+    "newestVersion": "1.0.0",
+    "changelogs": {
+      "new": [],
+      "fix": [],
+      "changes":[]
+    }
+  }
 }
