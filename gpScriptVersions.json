@@ -1,25 +1,24 @@
 {
   "gp_taxSystem_QB": {
-    "newestVersion": "1.0.5",
+    "newestVersion": "1.0.6",
     "changelogs": {
       "new": [
-        "➥ Added Config-Option to enter menu on coordinats/marker"
+        "➥ Added command to test the script (/TestTaxSystem)",
+        "➥ Implemented EMail-Support for LB-Phone (not tested)"
       ],
-      "fix": [
-        "➥ Fixed the bug that anyone can open the menu"
-      ],
+      "fix": [],
       "changes":[]
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.0.5",
+    "newestVersion": "1.0.6",
     "changelogs": {
       "new": [
-        "➥ Added Config-Option to enter menu on coordinats/marker"
+        "➥ Added a command to test the script (/TestTaxSystem)",
+        "➥ Implemented EMail-Support for LB-Phone (not tested)",
+        "➥ Implemented Support for myCardealer (not tested)"
       ],
-      "fix": [
-        "➥ Fixed the bug that anyone can open the menu"
-      ],
+      "fix": [],
       "changes":[]
     }
   }
