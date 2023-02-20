@@ -2,7 +2,9 @@
   "gp_taxSystem_QB": {
     "newestVersion": "1.0.5",
     "changelogs": {
-      "new": [],
+      "new": [
+        "➥ Added Config-Option to enter menu on coordinats/marker"
+      ],
       "fix": [
         "➥ Fixed the bug that anyone can open the menu"
       ],
@@ -12,7 +14,9 @@
   "gp_taxSystem_ESX": {
     "newestVersion": "1.0.5",
     "changelogs": {
-      "new": [],
+      "new": [
+        "➥ Added Config-Option to enter menu on coordinats/marker"
+      ],
       "fix": [
         "➥ Fixed the bug that anyone can open the menu"
       ],
