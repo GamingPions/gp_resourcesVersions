@@ -1,12 +1,21 @@
 {
   "gp_taxSystem_QB": {
-    "newestVersion": "1.0.4",
+    "newestVersion": "1.0.5",
     "changelogs": {
-      "new": [
-        "➥ Misconfigurations of the system are now visually displayed directly in the menu",
-        "➥ Added some more locals"
+      "new": [],
+      "fix": [
+        "➥ Fixed the bug that anyone can open the menu"
       ],
-      "fix": [],
+      "changes":[]
+    }
+  },
+  "gp_taxSystem_ESX": {
+    "newestVersion": "1.0.5",
+    "changelogs": {
+      "new": [],
+      "fix": [
+        "➥ Fixed the bug that anyone can open the menu"
+      ],
       "changes":[]
     }
   }
