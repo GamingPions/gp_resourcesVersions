@@ -1,12 +1,13 @@
 {
   "gp_taxSystem_QB": {
-    "newestVersion": "1.0.6",
+    "newestVersion": "1.0.7",
     "changelogs": {
       "new": [
-        "➥ Added command to test the script (/TestTaxSystem)",
-        "➥ Implemented EMail-Support for LB-Phone (not tested)"
+        "➥ Translation for wrong job on menu open"
       ],
-      "fix": [],
+      "fix": [
+        "➥ SQL write error in the .sql file fixed"
+      ],
       "changes":[]
     }
   },
@@ -14,9 +15,13 @@
     "newestVersion": "1.0.7",
     "changelogs": {
       "new": [
-        "➥ Fixed the problem that the changes are not saved when you click save settings in the menu"
+        "➥ Translation for wrong job on menu open"
       ],
-      "fix": [],
+      "fix": [
+        "➥ Changes are not saved when you click save settings in the menu",
+        "➥ SQL write error in the .sql file fixed",
+        "➥ Translations for the German file fixed"
+      ],
       "changes":[]
     }
   },
