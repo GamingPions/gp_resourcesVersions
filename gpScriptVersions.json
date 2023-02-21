@@ -11,12 +11,10 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.0.6",
+    "newestVersion": "1.0.7",
     "changelogs": {
       "new": [
-        "➥ Added a command to test the script (/TestTaxSystem)",
-        "➥ Implemented EMail-Support for LB-Phone (not tested)",
-        "➥ Implemented Support for myCardealer (not tested)"
+        "➥ Fixed the problem that the changes are not saved when you click save settings in the menu"
       ],
       "fix": [],
       "changes":[]
