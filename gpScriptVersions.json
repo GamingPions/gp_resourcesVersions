@@ -29,7 +29,7 @@
     "newestVersion": "4.1.1",
     "changelogs": {
       "new": [
-        "➥ Add new update checker"
+        "➥ Added new update checker"
       ],
       "fix": [
         "➥ Roadphone number was not changed when changing job"
