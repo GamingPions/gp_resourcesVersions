@@ -1,26 +1,25 @@
 {
   "gp_taxSystem_QB": {
-    "newestVersion": "1.0.7",
+    "newestVersion": "1.0.8",
     "changelogs": {
-      "new": [
-        "➥ Translation for wrong job on menu open"
-      ],
+      "new": [],
       "fix": [
-        "➥ SQL write error in the .sql file fixed"
+        "➥ Serious error where the script aborts during the tax calculation without errors",
+        "➥ Some database related errors"
       ],
       "changes":[]
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.0.7",
+    "newestVersion": "1.0.8",
     "changelogs": {
       "new": [
-        "➥ Translation for wrong job on menu open"
+        "➥ Support for multichar-systems"
       ],
       "fix": [
-        "➥ Changes are not saved when you click save settings in the menu",
-        "➥ SQL write error in the .sql file fixed",
-        "➥ Translations for the German file fixed"
+        "➥ Serious error where the script aborts during the tax calculation without errors",
+        "➥ Some database related errors",
+        "➥ Could not open in-game menu with multichar-system"
       ],
       "changes":[]
     }
