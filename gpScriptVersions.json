@@ -1,19 +1,20 @@
 {
   "gp_taxSystem_QB": {
-    "newestVersion": "1.0.8",
+    "newestVersion": "1.0.9",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Serious error where the script aborts during the tax calculation without errors",
-        "➥ Some database related errors"
+      "new": [
+        "➥ Added EMail-Code-Snipped for RoadPhone"
       ],
+      "fix": [],
       "changes":[]
     }
   },
   "gp_taxSystem_ESX": {
     "newestVersion": "1.0.9",
     "changelogs": {
-      "new": [],
+      "new": [
+        "➥ Added EMail-Code-Snipped for RoadPhone"
+      ],
       "fix": [
         "➥ Fix Menu-Button Bug on money-tax settings page"
       ],
