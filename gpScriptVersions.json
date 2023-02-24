@@ -1,4 +1,20 @@
 {
+  "gp_dutyBlips_QB": {
+    "newestVersion": "1.0.0",
+    "changelogs": {
+      "new": [],
+      "fix": [],
+      "changes":[]
+    }
+  },
+  "gp_dutyBlips_ESX": {
+    "newestVersion": "1.0.0",
+    "changelogs": {
+      "new": [],
+      "fix": [],
+      "changes":[]
+    }
+  },
   "gp_taxSystem_QB": {
     "newestVersion": "1.0.9",
     "changelogs": {
