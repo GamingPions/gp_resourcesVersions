@@ -48,5 +48,15 @@
       ],
       "changes":[]
     }
-  }
+  },
+  "gp_visum_QB": {
+    "newestVersion": "2.0.1",
+    "changelogs": {
+      "new": [],
+      "fix": [
+        "➥ Player can pick up visum vehicle multiple times"
+      ],
+      "changes":[]
+    }
+  },
 }
