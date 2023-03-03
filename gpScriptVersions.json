@@ -16,12 +16,12 @@
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.0.9",
+    "newestVersion": "1.1.0",
     "changelogs": {
-      "new": [
-        "➥ Added EMail-Code-Snipped for RoadPhone"
+      "new": [],
+      "fix": [
+        "➥ vehicleValue nil error on tax deduction"
       ],
-      "fix": [],
       "changes":[]
     }
   },
