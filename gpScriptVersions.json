@@ -50,13 +50,25 @@
     }
   },
   "gp_visum_QB": {
-    "newestVersion": "2.0.1",
+    "newestVersion": "2.0.2",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Player can pick up visum vehicle multiple times"
+      "new": [
+        "➥ Added function to auto whitelist players after visa-duration",
+        "➥ Added export getVisumState instead of callbacks"
       ],
+      "fix": [],
       "changes":[]
     }
   },
+  "gp_visum_ESX": {
+    "newestVersion": "1.9.1",
+    "changelogs": {
+      "new": [
+        "➥ Added function to auto whitelist players after visa-duration",
+        "➥ Added export getVisumState instead of callbacks"
+      ],
+      "fix": [],
+      "changes":[]
+    }
+  }
 }
