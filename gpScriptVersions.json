@@ -53,7 +53,7 @@
     "newestVersion": "2.0.1",
     "changelogs": {
       "new": [
-        "➥ Added function to auto whitelist players after visa-duration",
+        "➥ Added function to auto whitelist players after visa-duration (added by request)",
         "➥ Added export getVisumState instead of callbacks"
       ],
       "fix": [],
@@ -64,7 +64,7 @@
     "newestVersion": "1.9.1",
     "changelogs": {
       "new": [
-        "➥ Added function to auto whitelist players after visa-duration",
+        "➥ Added function to auto whitelist players after visa-duration (added by request)",
         "➥ Added export getVisumState instead of callbacks"
       ],
       "fix": [],
