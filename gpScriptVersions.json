@@ -50,24 +50,22 @@
     }
   },
   "gp_visum_QB": {
-    "newestVersion": "2.0.1",
+    "newestVersion": "2.0.2",
     "changelogs": {
-      "new": [
-        "➥ Added function to auto whitelist players after visa-duration (added by request)",
-        "➥ Added export getVisumState instead of callbacks"
+      "new": [],
+      "fix": [
+        "➥ Fixed bug where visa duration was always set to 7 Days"
       ],
-      "fix": [],
       "changes":[]
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.8.1",
+    "newestVersion": "1.8.2",
     "changelogs": {
-      "new": [
-        "➥ Added function to auto whitelist players after visa-duration (added by request)",
-        "➥ Added export getVisumState instead of callbacks"
+      "new": [],
+      "fix": [
+        "➥ Fixed bug where visa duration was always set to 7 Days"
       ],
-      "fix": [],
       "changes":[]
     }
   }
