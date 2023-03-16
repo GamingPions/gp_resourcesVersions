@@ -26,13 +26,12 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.0.9",
+    "newestVersion": "1.1.0",
     "changelogs": {
-      "new": [
-        "➥ Added EMail-Code-Snipped for RoadPhone"
-      ],
+      "new": [],
       "fix": [
-        "➥ Fix Menu-Button Bug on money-tax settings page"
+        "➥ Fix some compatibility bugs with older ESX versions (non legacy)",
+        "➥ Problem solved that the companies did not receive the tax money"
       ],
       "changes":[]
     }
