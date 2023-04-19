@@ -16,22 +16,21 @@
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.1.0",
+    "newestVersion": "1.1.1",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ vehicleValue nil error on tax deduction"
+        "➥ Fixed 'field year missing in data table' error"
       ],
       "changes":[]
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.1.0",
+    "newestVersion": "1.1.2",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fix some compatibility bugs with older ESX versions (non legacy)",
-        "➥ Problem solved that the companies did not receive the tax money"
+        "➥ Fixed 'field year missing in data table' error"
       ],
       "changes":[]
     }
