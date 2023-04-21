@@ -16,22 +16,22 @@
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.1.1",
+    "newestVersion": "1.1.2",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Fixed 'field year missing in data table' error"
+      "new": [
+        "➥ Added mail-option for gksphone"
       ],
+      "fix": [],
       "changes":[]
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.1.2",
+    "newestVersion": "1.1.3",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Fixed 'field year missing in data table' error"
+      "new": [
+        "➥ Added mail-option for gksphone"
       ],
+      "fix": [],
       "changes":[]
     }
   },
