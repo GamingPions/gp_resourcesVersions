@@ -58,11 +58,11 @@
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.8.2",
+    "newestVersion": "1.8.3",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed bug where visa duration was always set to 7 Days"
+        "➥ Fixed error with wrong Framework implementation"
       ],
       "changes":[]
     }
