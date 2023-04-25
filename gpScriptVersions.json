@@ -58,11 +58,11 @@
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.8.3",
+    "newestVersion": "1.8.4",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed error with wrong Framework implementation"
+        "➥ Fixed wrong NPC-Heading position"
       ],
       "changes":[]
     }
