@@ -48,11 +48,11 @@
     }
   },
   "gp_visum_QB": {
-    "newestVersion": "2.0.2",
+    "newestVersion": "2.0.3",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed bug where visa duration was always set to 7 Days"
+        "➥ Fixed: Vehicle-NPC spawning even though Config.useNPCSystem is deactivated"
       ],
       "changes":[]
     }
