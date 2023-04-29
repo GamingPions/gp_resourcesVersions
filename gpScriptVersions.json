@@ -58,11 +58,11 @@
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.8.4",
+    "newestVersion": "1.8.5",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed wrong NPC-Heading position"
+        "➥ Fixed: Error on player server join 'tried to index a nil value'"
       ],
       "changes":[]
     }
