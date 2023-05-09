@@ -58,11 +58,11 @@
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.8.5",
+    "newestVersion": "1.8.6",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed: Error on player server join 'tried to index a nil value'"
+        "➥ Fixed: Error on playername search in whitelist menu"
       ],
       "changes":[]
     }
