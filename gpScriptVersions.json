@@ -48,21 +48,25 @@
     }
   },
   "gp_visum_QB": {
-    "newestVersion": "2.0.3",
+    "newestVersion": "2.0.4",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed: Vehicle-NPC spawning even though Config.useNPCSystem is deactivated"
+        "➥ Fixed: Whitelisted person can also request visum vehicle",
+        "➥ Fixed: Person without visum and whitelist can also request visum vehicle"
       ],
       "changes":[]
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.8.6",
+    "newestVersion": "1.8.7",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed: Error on playername search in whitelist menu"
+        "➥ Fixed: No Blip for vehicle NPC after script restart",
+        "➥ Fixed: Whitelisted person can also request visum vehicle",
+        "➥ Fixed: Person without visum and whitelist can also request visum vehicle",
+        "➥ Fixed: Updated SQL for visa document"
       ],
       "changes":[]
     }
