@@ -59,14 +59,11 @@
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.8.7",
+    "newestVersion": "1.8.8",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed: No Blip for vehicle NPC after script restart",
-        "➥ Fixed: Whitelisted person can also request visum vehicle",
-        "➥ Fixed: Person without visum and whitelist can also request visum vehicle",
-        "➥ Fixed: Updated SQL for visa document"
+        "➥ Fixed: Players can't recieve visum vehicle with default de.lua translation file."
       ],
       "changes":[]
     }
