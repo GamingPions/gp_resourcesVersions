@@ -94,7 +94,6 @@
         "➥ Added new version/update checker"
       ],
       "fix": [
-        "➥ Reduced resmon-idle from 0.02ms to 0.00 ms",
         "➥ Fixed: Can't buy simcard with no registration set in config"
       ],
       "changes":[
