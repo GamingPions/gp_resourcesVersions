@@ -67,5 +67,20 @@
       ],
       "changes":[]
     }
+  },
+  "gp_businessCard_ESX": {
+    "newestVersion": "1.7.0",
+    "changelogs": {
+      "new": [
+        "➥ Added new version checker"
+      ],
+      "fix": [
+        "➥ Fixed: [DEBUG] Couldn't fetch player from database!"
+      ],
+      "changes":[
+        "➥ Cleared overall code",
+        "➥ Switched from mySQL to oxmysql"
+      ]
+    }
   }
 }
