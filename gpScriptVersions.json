@@ -54,16 +54,16 @@
     }
   },
   "gp_emergencyphone_QB": {
-    "newestVersion": "4.2.1",
+    "newestVersion": "4.2.2",
     "changelogs": {
       "new": [
-        "➥ Added new update checker"
+        "➥ Added support for work calls for qs-smartphone"
       ],
       "fix": [
-        "➥ Fixed: Getting private number after disconnect/game crash for qb-phone"
+        "➥ Fixed qs-smartphone database table repair function"
       ],
       "changes":[
-        "➥ Added export for number changed for gksphone"
+        "➥ 1 new config options!"
       ]
     }
   },
