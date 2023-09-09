@@ -40,10 +40,16 @@
   "gp_emergencyphone_ESX": {
     "newestVersion": "4.1.2",
     "changelogs": {
-      "new": [],
-      "fix": [],
+      "new": [
+        "➥ Added support for work calls for qs-smartphone",
+        "➥ Added support visn_are (return on death)"
+      ],
+      "fix": [
+        "➥ Fixed qs-smartphone database table repair function"
+      ],
       "changes":[
-        "➥ Added export for number changed for gksphone"
+        "➥ Added export for number changed for gksphone",
+        "➥ 2 new config options!"
       ]
     }
   },
