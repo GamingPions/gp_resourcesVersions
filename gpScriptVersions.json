@@ -49,6 +49,20 @@
       "changes":[]
     }
   },
+  "gp_emergencyphone_QB": {
+    "newestVersion": "4.2.1",
+    "changelogs": {
+      "new": [
+        "➥ Added new update checker"
+      ],
+      "fix": [
+        "➥ Fixed: Getting private number after disconnect/game crash for qb-phone"
+      ],
+      "changes":[
+        "➥ Added export for number changed for gksphone"
+      ]
+    }
+  },
   "gp_visum_QB": {
     "newestVersion": "2.0.4",
     "changelogs": {
