@@ -38,15 +38,13 @@
     }
   },
   "gp_emergencyphone_ESX": {
-    "newestVersion": "4.1.1",
+    "newestVersion": "4.1.2",
     "changelogs": {
-      "new": [
-        "➥ Added new update checker"
-      ],
-      "fix": [
-        "➥ Roadphone number was not changed when changing job"
-      ],
-      "changes":[]
+      "new": [],
+      "fix": [],
+      "changes":[
+        "➥ Added export for number changed for gksphone"
+      ]
     }
   },
   "gp_emergencyphone_QB": {
