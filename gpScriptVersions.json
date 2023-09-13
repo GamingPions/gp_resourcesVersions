@@ -1,4 +1,12 @@
 {
+  "gp_InsuranceSystem_QB": {
+    "newestVersion": "1.0.0",
+    "changelogs": {
+      "new": [],
+      "fix": [],
+      "changes":[]
+    }
+  },
   "gp_dutyBlips_QB": {
     "newestVersion": "1.0.0",
     "changelogs": {
