@@ -36,13 +36,15 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.1.4",
+    "newestVersion": "1.1.6",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed missing/wrong translation"
+        "➥ SCRIPT ERROR: attempt to concatenate a nil value (field 'lastname')"
       ],
-      "changes":[]
+      "changes":[
+        "➥ Players with missing first- and lastname will be ignored"
+      ]
     }
   },
   "gp_emergencyphone_ESX": {
