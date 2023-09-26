@@ -99,20 +99,13 @@
     }
   },
   "gp_businessCard_ESX": {
-    "newestVersion": "1.7.0",
+    "newestVersion": "1.7.1",
     "changelogs": {
-      "new": [
-        "➥ Added new version/update checker"
-      ],
+      "new": [],
       "fix": [
-        "➥ Fixed: [DEBUG] Couldn't fetch player from database!",
-        "➥ Reduced resmon-idle from 0.02ms to 0.00 ms"
+        "➥ Fixed: Some errors in new version check!",
       ],
-      "changes":[
-        "➥ Cleared overall code",
-        "➥ Switched from mySQL to oxmysql",
-        "➥ Reduced NativeUI Menus to Submenus"
-      ]
+      "changes":[]
     }
   },
   "gp_newPhoneNumber_ESX": {
