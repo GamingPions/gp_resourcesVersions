@@ -7,6 +7,14 @@
       "changes":[]
     }
   },
+  "gp_InsuranceSystem_ESX": {
+    "newestVersion": "1.0.0",
+    "changelogs": {
+      "new": [],
+      "fix": [],
+      "changes":[]
+    }
+  },
   "gp_dutyBlips_QB": {
     "newestVersion": "1.0.0",
     "changelogs": {
