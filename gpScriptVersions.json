@@ -97,13 +97,15 @@
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.8.8",
+    "newestVersion": "1.8.9",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed: Players can't recieve visum vehicle with default de.lua translation file."
+        "➥ Fixed: Players dont recieve their visumpass on first spawn."
       ],
-      "changes":[]
+      "changes":[
+        "➥ IMPORTANT: You dont need to call the visum:registerPlayerVisum anymore! Please remove it from your Char-Creator!"
+      ]
     }
   },
   "gp_businessCard_ESX": {
