@@ -1,12 +1,4 @@
 {
-  "gp_InsuranceSystem_QB": {
-    "newestVersion": "1.0.0",
-    "changelogs": {
-      "new": [],
-      "fix": [],
-      "changes":[]
-    }
-  },
   "gp_InsuranceSystem_ESX": {
     "newestVersion": "1.0.0",
     "changelogs": {
@@ -15,7 +7,7 @@
       "changes":[]
     }
   },
-  "gp_dutyBlips_QB": {
+  "gp_InsuranceSystem_QB": {
     "newestVersion": "1.0.0",
     "changelogs": {
       "new": [],
@@ -31,15 +23,11 @@
       "changes":[]
     }
   },
-  "gp_taxSystem_QB": {
-    "newestVersion": "1.1.5",
+  "gp_dutyBlips_QB": {
+    "newestVersion": "1.0.0",
     "changelogs": {
-      "new": [
-        "➥ Added Mail-Notify for qb-phone"
-      ],
-      "fix": [
-        "➥ Fixed: txAdmin warning for missing file in fxmanifest"
-      ],
+      "new": [],
+      "fix": [],
       "changes":[]
     }
   },
@@ -53,6 +41,18 @@
       "changes":[
         "➥ Players with missing first- and lastname will be ignored"
       ]
+    }
+  },
+  "gp_taxSystem_QB": {
+    "newestVersion": "1.1.5",
+    "changelogs": {
+      "new": [
+        "➥ Added Mail-Notify for qb-phone"
+      ],
+      "fix": [
+        "➥ Fixed: txAdmin warning for missing file in fxmanifest"
+      ],
+      "changes":[]
     }
   },
   "gp_emergencyphone_ESX": {
@@ -85,17 +85,6 @@
       ]
     }
   },
-  "gp_visum_QB": {
-    "newestVersion": "2.0.4",
-    "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Fixed: Whitelisted person can also request visum vehicle",
-        "➥ Fixed: Person without visum and whitelist can also request visum vehicle"
-      ],
-      "changes":[]
-    }
-  },
   "gp_visum_ESX": {
     "newestVersion": "1.8.9",
     "changelogs": {
@@ -108,12 +97,23 @@
       ]
     }
   },
+  "gp_visum_QB": {
+    "newestVersion": "2.0.4",
+    "changelogs": {
+      "new": [],
+      "fix": [
+        "➥ Fixed: Whitelisted person can also request visum vehicle",
+        "➥ Fixed: Person without visum and whitelist can also request visum vehicle"
+      ],
+      "changes":[]
+    }
+  },
   "gp_businessCard_ESX": {
     "newestVersion": "1.7.1",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed: Some errors in new version check!",
+        "➥ Fixed: Some errors in new version check!"
       ],
       "changes":[]
     }
@@ -131,6 +131,14 @@
         "➥ Cleared overall code",
         "➥ Switched from mySQL to oxmysql"
       ]
+    }
+  },
+  "gp_noHUD_ESX": {
+    "newestVersion": "1.4.1",
+    "changelogs": {
+      "new": [],
+      "fix": [],
+      "changes":[]
     }
   }
 }
