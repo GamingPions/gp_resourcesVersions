@@ -32,7 +32,7 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.1.6",
+    "newestVersion": "1.1.7",
     "changelogs": {
       "new": [],
       "fix": [
@@ -56,7 +56,7 @@
     }
   },
   "gp_emergencyphone_ESX": {
-    "newestVersion": "4.1.2",
+    "newestVersion": "4.1.3",
     "changelogs": {
       "new": [
         "➥ Added support for work calls for qs-smartphone",
@@ -109,7 +109,7 @@
     }
   },
   "gp_businessCard_ESX": {
-    "newestVersion": "1.7.1",
+    "newestVersion": "1.7.2",
     "changelogs": {
       "new": [],
       "fix": [
@@ -119,7 +119,7 @@
     }
   },
   "gp_newPhoneNumber_ESX": {
-    "newestVersion": "1.5.0",
+    "newestVersion": "1.5.1",
     "changelogs": {
       "new": [
         "➥ Added new version/update checker"
