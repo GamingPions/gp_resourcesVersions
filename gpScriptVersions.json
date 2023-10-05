@@ -44,14 +44,12 @@
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.1.5",
+    "newestVersion": "1.1.6",
     "changelogs": {
       "new": [
-        "➥ Added Mail-Notify for qb-phone"
+        "➥ Added AddSocietyMoney function to shared-functions.lua"
       ],
-      "fix": [
-        "➥ Fixed: txAdmin warning for missing file in fxmanifest"
-      ],
+      "fix": [],
       "changes":[]
     }
   },
