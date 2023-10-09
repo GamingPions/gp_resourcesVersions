@@ -117,18 +117,13 @@
     }
   },
   "gp_newPhoneNumber_ESX": {
-    "newestVersion": "1.5.1",
+    "newestVersion": "1.5.2",
     "changelogs": {
       "new": [
-        "➥ Added new version/update checker"
+        "➥ Added function to change notify messages"
       ],
-      "fix": [
-        "➥ Fixed: Can't buy simcard with no registration set in config"
-      ],
-      "changes":[
-        "➥ Cleared overall code",
-        "➥ Switched from mySQL to oxmysql"
-      ]
+      "fix": [],
+      "changes":[]
     }
   },
   "gp_noHUD_ESX": {
