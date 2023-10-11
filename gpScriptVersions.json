@@ -54,19 +54,14 @@
     }
   },
   "gp_emergencyphone_ESX": {
-    "newestVersion": "4.1.3",
+    "newestVersion": "4.1.4",
     "changelogs": {
-      "new": [
-        "➥ Added support for work calls for qs-smartphone",
-        "➥ Added support visn_are (return on death)"
-      ],
+      "new": [],
       "fix": [
-        "➥ Fixed qs-smartphone database table repair function"
+        "➥ Fixed <SCRIPT ERROR: attempt to index a nil value> when opening menu",
+        "➥ Fixed <SCRIPT ERROR: error object is not a string> when opening menu"
       ],
-      "changes":[
-        "➥ Added export for number changed for gksphone",
-        "➥ 2 new config options!"
-      ]
+      "changes": []
     }
   },
   "gp_emergencyphone_QB": {
