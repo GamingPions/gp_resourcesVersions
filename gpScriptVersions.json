@@ -56,7 +56,9 @@
   "gp_emergencyphone_ESX": {
     "newestVersion": "4.1.4",
     "changelogs": {
-      "new": [],
+      "new": [
+        "➥ Added server_webhook.lua"
+      ],
       "fix": [
         "➥ Fixed <SCRIPT ERROR: attempt to index a nil value> when opening menu",
         "➥ Fixed <SCRIPT ERROR: error object is not a string> when opening menu"
