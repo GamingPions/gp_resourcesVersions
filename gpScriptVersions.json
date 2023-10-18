@@ -3,10 +3,10 @@
     "newestVersion": "1.0.1",
     "changelogs": {
       "new": [
-        - Added new insurance job to manage other business insurances
+        "➥ Added new insurance job to manage other business insurances"
       ],
       "fix": [
-        - Fixed: Businesses now recieving the money
+        "➥ Fixed: Businesses now recieving the money"
       ],
       "changes":[]
     }
