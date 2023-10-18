@@ -1,4 +1,16 @@
 {
+  "gp_InsuranceSystem": {
+    "newestVersion": "1.0.1",
+    "changelogs": {
+      "new": [
+        - Added new insurance job to manage other business insurances
+      ],
+      "fix": [
+        - Fixed: Businesses now recieving the money
+      ],
+      "changes":[]
+    }
+  },
   "gp_InsuranceSystem_ESX": {
     "newestVersion": "1.0.0",
     "changelogs": {
