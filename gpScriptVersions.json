@@ -126,10 +126,10 @@
     }
   },
   "gp_newPhoneNumber_ESX": {
-    "newestVersion": "1.5.2",
+    "newestVersion": "1.5.3",
     "changelogs": {
       "new": [
-        "➥ Added function to change notify messages"
+        "➥ Added Config.HelpText option for ESX.ShowHelpNotification"
       ],
       "fix": [],
       "changes":[]
