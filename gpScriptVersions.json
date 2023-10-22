@@ -1,12 +1,12 @@
 {
   "gp_InsuranceSystem": {
-    "newestVersion": "1.0.1",
+    "newestVersion": "1.0.2",
     "changelogs": {
       "new": [
-        "➥ Added new insurance job to manage other business insurances"
+        "➥ Added new locale for no players nearby"
       ],
       "fix": [
-        "➥ Fixed: Businesses now recieving the money"
+        "➥ Fixed: Error on NUI-Callback ManageBusiness"
       ],
       "changes":[]
     }
