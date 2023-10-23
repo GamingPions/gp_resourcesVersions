@@ -1,12 +1,10 @@
 {
   "gp_InsuranceSystem": {
-    "newestVersion": "1.0.2",
+    "newestVersion": "1.0.3",
     "changelogs": {
-      "new": [
-        "➥ Added new locale for no players nearby"
-      ],
+      "new": [],
       "fix": [
-        "➥ Fixed: Error on NUI-Callback ManageBusiness"
+        "➥ Fixed integration for JakSams BillingUI"
       ],
       "changes":[]
     }
