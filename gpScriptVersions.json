@@ -42,22 +42,20 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.1.7",
+    "newestVersion": "1.1.8",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ SCRIPT ERROR: attempt to concatenate a nil value (field 'lastname')"
+      "new": [
+        "➥ Added that also the rank of the job is considered when opening the menu"
       ],
-      "changes":[
-        "➥ Players with missing first- and lastname will be ignored"
-      ]
+      "fix": [],
+      "changes":[]
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.1.6",
+    "newestVersion": "1.1.7",
     "changelogs": {
       "new": [
-        "➥ Added AddSocietyMoney function to shared-functions.lua"
+        "➥ Added that also the rank of the job is considered when opening the menu"
       ],
       "fix": [],
       "changes":[]
