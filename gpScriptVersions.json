@@ -2,9 +2,14 @@
   "gp_InsuranceSystem": {
     "newestVersion": "1.0.4",
     "changelogs": {
-      "new": [],
+      "new": [
+        "➥ The insurance job can now be deactivated in Config"
+      ],
       "fix": [
-        "➥ Fixed business money deduction"
+        "➥ Money is now deducted from companies and added when it is insured",
+        "➥ Money is now deducted from companies and added when the insurance is canceled",
+        "➥ Costs for the insurance of a company are now deducted",
+        "➥ New date for debiting the cost of insurance for a company is now updated in the database"
       ],
       "changes":[]
     }
