@@ -1,10 +1,10 @@
 {
   "gp_InsuranceSystem": {
-    "newestVersion": "1.0.3",
+    "newestVersion": "1.0.4",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed integration for JakSams BillingUI"
+        "➥ Fixed business money deduction"
       ],
       "changes":[]
     }
