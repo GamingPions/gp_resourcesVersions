@@ -91,25 +91,22 @@
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.8.9",
+    "newestVersion": "1.9.0",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Fixed: Players dont recieve their visumpass on first spawn."
+      "new": [
+        "➥ Config.OnPlayerWhitelisted() added. Called when a player is whitelisted."
       ],
-      "changes":[
-        "➥ IMPORTANT: You dont need to call the visum:registerPlayerVisum anymore! Please remove it from your Char-Creator!"
-      ]
+      "fix": [],
+      "changes":[]
     }
   },
   "gp_visum_QB": {
-    "newestVersion": "2.0.4",
+    "newestVersion": "2.0.5",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Fixed: Whitelisted person can also request visum vehicle",
-        "➥ Fixed: Person without visum and whitelist can also request visum vehicle"
+      "new": [
+        "➥ Config.OnPlayerWhitelisted() added. Called when a player is whitelisted."
       ],
+      "fix": [],
       "changes":[]
     }
   },
