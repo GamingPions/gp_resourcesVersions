@@ -1,12 +1,11 @@
 {
   "gp_InsuranceSystem": {
-    "newestVersion": "1.0.5",
+    "newestVersion": "1.0.6",
     "changelogs": {
-      "new": [
-        "➥ Checkbox added when insuring a company to specify that the company pays the first payment directly."
-      ],
+      "new": [],
       "fix": [
-        "➥ UI is now properly syncronized when a company is insured or terminated"
+        "➥ Fixed: Error on player insurance-fees deduction on QB-Core",
+        "➥ Fixed: Error on resource start (creating Job-Settings in gp_insurance_settings database table"
       ],
       "changes":[]
     }
