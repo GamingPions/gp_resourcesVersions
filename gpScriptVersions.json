@@ -5,7 +5,7 @@
       "new": [],
       "fix": [
         "➥ Fixed: Error on player insurance-fees deduction on QB-Core",
-        "➥ Fixed: Error on resource start (creating Job-Settings in gp_insurance_settings database table"
+        "➥ Fixed: Error on resource start (creating Job-Settings in gp_insurance_settings database table on QB-Core"
       ],
       "changes":[]
     }
