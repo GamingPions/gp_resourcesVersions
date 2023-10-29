@@ -1,11 +1,10 @@
 {
   "gp_InsuranceSystem": {
-    "newestVersion": "1.0.6",
+    "newestVersion": "1.0.7",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed: Error on player insurance-fees deduction on QB-Core",
-        "➥ Fixed: Error on resource start (creating Job-Settings in gp_insurance_settings database table on QB-Core"
+        "➥ Fixed: Export GetPrivateInsuranceCoverage is now working"
       ],
       "changes":[]
     }
