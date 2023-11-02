@@ -1,10 +1,11 @@
 {
   "gp_InsuranceSystem": {
-    "newestVersion": "1.0.7",
+    "newestVersion": "1.0.8",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed: Export GetPrivateInsuranceCoverage is now working"
+        "➥ Fixed: Playername in NPC Menu should now be displayed",
+        "➥ Fixed: No plans were displayed after a plan was edited"
       ],
       "changes":[]
     }
