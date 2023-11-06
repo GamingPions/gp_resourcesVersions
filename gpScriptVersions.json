@@ -110,12 +110,12 @@
     }
   },
   "gp_businessCard_ESX": {
-    "newestVersion": "1.7.2",
+    "newestVersion": "1.7.3",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Fixed: Some errors in new version check!"
+      "new": [
+        "➥ Added compatibility for roadphone"
       ],
+      "fix": [],
       "changes":[]
     }
   },
