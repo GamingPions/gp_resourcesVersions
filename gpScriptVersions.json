@@ -1,12 +1,11 @@
 {
   "gp_InsuranceSystem": {
-    "newestVersion": "1.0.8",
+    "newestVersion": "1.0.9",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Fixed: Playername in NPC Menu should now be displayed",
-        "➥ Fixed: No plans were displayed after a plan was edited"
+      "new": [
+        "➥ Added new UI-Translation to config.js (BILLING_INTERVAL_FOOTER_ONE, BILLING_INTERVAL_FOOTER_TWO)"
       ],
+      "fix": [],
       "changes":[]
     }
   },
