@@ -6,19 +6,21 @@
         "➥ Added UpdateChecker",
       ],
       "fix": [
-        "➥ Fixed: Error while using no target script",
+        "➥ Added Support for ox_target and qb-target",
         "➥ Fixed: Added oxmysql dependencie to fxmanifest",
       ],
       "changes":[]
     }
   },
   "gp_InsuranceSystem": {
-    "newestVersion": "1.0.9",
+    "newestVersion": "1.1.0",
     "changelogs": {
       "new": [
-        "➥ Added new UI-Translation to config.js (BILLING_INTERVAL_FOOTER_ONE, BILLING_INTERVAL_FOOTER_TWO)"
+        "➥ Added Support for ox_target and qb-target"
       ],
-      "fix": [],
+      "fix": [
+        "➥ Fixed: NPC not spawning or spawning multiple times "
+      ],
       "changes":[]
     }
   },
