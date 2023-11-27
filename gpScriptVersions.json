@@ -7,6 +7,7 @@
       ],
       "fix": [
         "➥ Fixed: Error while using no target script",
+        "➥ Fixed: Added oxmysql dependencie to fxmanifest",
       ],
       "changes":[]
     }
