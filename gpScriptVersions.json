@@ -1,4 +1,16 @@
 {
+  "gp_AdventCalendar": {
+    "newestVersion": "1.0.1",
+    "changelogs": {
+      "new": [
+        "➥ Added UpdateChecker",
+      ],
+      "fix": [
+        "➥ Fixed: Error while using no target script",
+      ],
+      "changes":[]
+    }
+  },
   "gp_InsuranceSystem": {
     "newestVersion": "1.0.9",
     "changelogs": {
