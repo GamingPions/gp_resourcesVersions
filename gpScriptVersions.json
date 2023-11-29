@@ -1,13 +1,14 @@
 {
   "gp_AdventCalendar": {
-    "newestVersion": "1.0.1",
+    "newestVersion": "1.0.2",
     "changelogs": {
       "new": [
-        "➥ Added UpdateChecker",
+        "➥ Added SharedFunctions.openedCalendar()",
+        "➥ Added SharedFunctions.closedCalendar()",
+        "➥ Added translations to config for UI messages",
       ],
       "fix": [
-        "➥ Added Support for ox_target and qb-target",
-        "➥ Fixed: Added oxmysql dependencie to fxmanifest",
+        "➥ Fixed UI time until new gift"
       ],
       "changes":[]
     }
