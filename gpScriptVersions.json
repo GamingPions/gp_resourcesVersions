@@ -14,19 +14,15 @@
     }
   },
   "gp_InsuranceSystem": {
-    "newestVersion": "1.1.1",
+    "newestVersion": "1.1.2",
     "changelogs": {
       "new": [
-        "➥ Added menu-locations to open insurance broker menu",
-        "➥ Added option to add menu help text for each individual job",
-        "➥ Added option to show/hide menu location marker for each individual job",
-        "➥ Added option to change menu marker render distance for each individual job",
+        "➥ Added register society account for esx_addonaccount",
+        "➥ Added qb-banking support (newest version)",
       ],
       "fix": [
-        "➥ Fixed: Frozen screen when you leave the menu as an insurance broker",
-        "➥ Fixed: Menu wont open if command was set to nil in config",
-        "➥ Fixed: Improved code to open npc and employee menu",
-        "➥ Worked on some client side performance improvements",
+        "➥ Fixed: Transfer of player costs did not work",
+        "➥ Fixed: Employees without authorization to edit a player's insurance can switch the player's insurance",
       ],
       "changes":[]
     }
