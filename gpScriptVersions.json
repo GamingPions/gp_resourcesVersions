@@ -14,15 +14,12 @@
     }
   },
   "gp_InsuranceSystem": {
-    "newestVersion": "1.1.2",
+    "newestVersion": "1.1.3",
     "changelogs": {
-      "new": [
-        "➥ Added register society account for esx_addonaccount",
-        "➥ Added qb-banking support (newest version)",
-      ],
+      "new": [],
       "fix": [
-        "➥ Fixed: Transfer of player costs did not work",
-        "➥ Fixed: Employees without authorization to edit a player's insurance can switch the player's insurance",
+        "➥ Fixed: Bug not beeing able to reinsure player on plan delete as insurance broker",
+        "➥ Fixed: Bug where insurance broker rank changes not synced with insurance broker",
       ],
       "changes":[]
     }
