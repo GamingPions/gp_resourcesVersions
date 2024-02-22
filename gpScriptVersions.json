@@ -14,12 +14,11 @@
     }
   },
   "gp_InsuranceSystem": {
-    "newestVersion": "1.1.3",
+    "newestVersion": "1.1.4",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed: Bug not beeing able to reinsure player on plan delete as insurance broker",
-        "➥ Fixed: Bug where insurance broker rank changes not synced with insurance broker",
+        "➥ Fixed: error during NUI callback CheckPlanDelete - while trying to delete any plan",
       ],
       "changes":[]
     }
