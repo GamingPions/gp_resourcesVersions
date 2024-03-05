@@ -40,12 +40,12 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.1.8",
+    "newestVersion": "1.1.9",
     "changelogs": {
-      "new": [
-        "➥ Added that also the rank of the job is considered when opening the menu"
+      "new": [],
+      "fix": [
+        "➥ Fixed error with playername is nil on blacklisted players"
       ],
-      "fix": [],
       "changes":[]
     }
   },
