@@ -40,20 +40,22 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.1.9",
+    "newestVersion": "1.2.0",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Fixed error with playername is nil on blacklisted players"
+      "new": [
+        "➥ Added Config option to also include player cash in money tax deduction",
+        "➥ Added Discord Logs for ingame-menu changes"
       ],
+      "fix": [],
       "changes":[]
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.1.7",
+    "newestVersion": "1.1.8",
     "changelogs": {
       "new": [
-        "➥ Added that also the rank of the job is considered when opening the menu"
+        "➥ Added Config option to also include player cash in money tax deduction",
+        "➥ Added Discord Logs for ingame-menu changes"
       ],
       "fix": [],
       "changes":[]
