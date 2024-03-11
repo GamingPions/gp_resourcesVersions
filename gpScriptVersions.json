@@ -96,10 +96,11 @@
     }
   },
   "gp_visum_QB": {
-    "newestVersion": "2.0.5",
+    "newestVersion": "2.0.6",
     "changelogs": {
       "new": [
-        "➥ Config.OnPlayerWhitelisted() added. Called when a player is whitelisted."
+        "➥ Fixed: Steamnames used instead of charnames on fetcholdplayer command",
+        "➥ Fixed: @gp_VisumSystem_QB/server/server.lua:429: attempt to concatenate a nil value (local 'playerName') on player whitelist via qb-menu whitelist menu"
       ],
       "fix": [],
       "changes":[]
