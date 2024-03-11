@@ -100,7 +100,7 @@
     "changelogs": {
       "new": [
         "➥ Fixed: Steamnames used instead of charnames on fetcholdplayer command",
-        "➥ Fixed: @gp_VisumSystem_QB/server/server.lua:429: attempt to concatenate a nil value (local 'playerName') on player whitelist via qb-menu whitelist menu"
+        "➥ Fixed: attempt to concatenate a nil value (local 'playerName') on player whitelist via qb-menu whitelist menu"
       ],
       "fix": [],
       "changes":[]
