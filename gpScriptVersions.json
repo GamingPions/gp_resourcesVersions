@@ -40,25 +40,23 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.2.0",
+    "newestVersion": "1.2.1",
     "changelogs": {
-      "new": [
-        "➥ Added Config option to also include player cash in money tax deduction",
-        "➥ Added Discord Logs for ingame-menu changes"
-      ],
+      "new": [],
       "fix": [],
-      "changes":[]
+      "changes":[
+        "➥ House and vehicle value wont be calculated on tax type set to fix-value"
+      ]
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.1.8",
+    "newestVersion": "1.1.9",
     "changelogs": {
-      "new": [
-        "➥ Added Config option to also include player cash in money tax deduction",
-        "➥ Added Discord Logs for ingame-menu changes"
-      ],
+      "new": [],
       "fix": [],
-      "changes":[]
+      "changes":[
+        "➥ House and vehicle value wont be calculated on tax type set to fix-value"
+      ]
     }
   },
   "gp_emergencyphone_ESX": {
