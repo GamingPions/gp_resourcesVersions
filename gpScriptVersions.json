@@ -50,13 +50,13 @@
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.1.9",
+    "newestVersion": "1.2.0",
     "changelogs": {
       "new": [],
-      "fix": [],
-      "changes":[
-        "➥ House and vehicle value wont be calculated on tax type set to fix-value"
-      ]
+      "fix": [
+        "➥ Script Error: attempt to index a number value | on tax deduction"
+      ],
+      "changes":[]
     }
   },
   "gp_emergencyphone_ESX": {
