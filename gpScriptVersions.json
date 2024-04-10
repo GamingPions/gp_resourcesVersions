@@ -50,11 +50,11 @@
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.2.0",
+    "newestVersion": "1.2.1",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Script Error: attempt to index a number value | on tax deduction"
+        "➥ Script Error: attempt to perform arithmetic on a nil value"
       ],
       "changes":[]
     }
