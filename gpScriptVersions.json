@@ -40,21 +40,21 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.2.1",
-    "changelogs": {
-      "new": [],
-      "fix": [],
-      "changes":[
-        "➥ House and vehicle value wont be calculated on tax type set to fix-value"
-      ]
-    }
-  },
-  "gp_taxSystem_QB": {
-    "newestVersion": "1.2.1",
+    "newestVersion": "1.2.2",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Script Error: attempt to perform arithmetic on a nil value"
+        "➥ SCRIPT ERROR: ?:-1: attempt to perform arithmetic on a table value - on tax deduction"
+      ],
+      "changes":[]
+    }
+  },
+  "gp_taxSystem_QB": {
+    "newestVersion": "1.2.2",
+    "changelogs": {
+      "new": [],
+      "fix": [
+        "➥ SCRIPT ERROR: ?:-1: attempt to perform arithmetic on a table value - on tax deduction"
       ],
       "changes":[]
     }
