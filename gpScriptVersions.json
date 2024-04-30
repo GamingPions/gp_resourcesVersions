@@ -50,11 +50,11 @@
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.2.2",
+    "newestVersion": "1.2.3",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ SCRIPT ERROR: ?:-1: attempt to perform arithmetic on a table value - on tax deduction"
+        "➥ attempt to index a nil value - Triggered by vehicles that players own but are not in the shared file"
       ],
       "changes":[]
     }
