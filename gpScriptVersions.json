@@ -82,7 +82,7 @@
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.9.0",
+    "newestVersion": "1.9.1",
     "changelogs": {
       "new": [
         "➥ Config.OnPlayerWhitelisted() added. Called when a player is whitelisted."
@@ -92,11 +92,10 @@
     }
   },
   "gp_visum_QB": {
-    "newestVersion": "2.0.6",
+    "newestVersion": "2.0.7",
     "changelogs": {
       "new": [
-        "➥ Fixed: Steamnames used instead of charnames on fetcholdplayer command",
-        "➥ Fixed: attempt to concatenate a nil value (local 'playerName') on player whitelist via qb-menu whitelist menu"
+        "➥ Added support for not deleting visum vehicles after visum end"
       ],
       "fix": [],
       "changes":[]
