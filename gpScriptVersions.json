@@ -85,7 +85,7 @@
     "newestVersion": "1.9.1",
     "changelogs": {
       "new": [
-        "➥ Config.OnPlayerWhitelisted() added. Called when a player is whitelisted."
+        "➥ Added support for not deleting visum vehicles after visum end"
       ],
       "fix": [],
       "changes":[]
