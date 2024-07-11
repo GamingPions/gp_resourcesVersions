@@ -129,5 +129,16 @@
       "fix": [],
       "changes":[]
     }
+  },
+  "gp_Vehicletracker_ESX": {
+    "newestVersion": "1.6.1",
+    "changelogs": {
+      "new": [
+        "➥ Added Support custom progress bars",
+        "➥ Added new version of update-checker"
+      ],
+      "fix": [],
+      "changes":[]
+    }
   }
 }
