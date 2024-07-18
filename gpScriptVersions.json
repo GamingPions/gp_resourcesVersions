@@ -60,12 +60,12 @@
     }
   },
   "gp_emergencyphone_ESX": {
-    "newestVersion": "4.1.7",
+    "newestVersion": "4.1.8",
     "changelogs": {
-      "new": [
-        "➥ Added support for gksphone_v2!"
+      "new": [],
+      "fix": [
+        "➥ Fixed Script Error when resetting the control center!"
       ],
-      "fix": [],
       "changes": []
     }
   },
