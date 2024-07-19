@@ -14,11 +14,11 @@
     }
   },
   "gp_InsuranceSystem": {
-    "newestVersion": "1.1.4",
+    "newestVersion": "1.1.5",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed: error during NUI callback CheckPlanDelete - while trying to delete any plan",
+        "➥ Fixed: No players shown to insure - only on the newest modified es_extended from Quasar for the qs-inventory",
       ],
       "changes":[]
     }
