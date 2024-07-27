@@ -130,11 +130,10 @@
     }
   },
   "gp_Vehicletracker_ESX": {
-    "newestVersion": "1.6.1",
+    "newestVersion": "1.6.2",
     "changelogs": {
       "new": [
-        "➥ Added Support custom progress bars",
-        "➥ Added new version of update-checker"
+        "➥ Added Support for custom minigames on tracker installation",
       ],
       "fix": [],
       "changes":[]
