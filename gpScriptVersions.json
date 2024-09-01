@@ -60,25 +60,25 @@
     }
   },
   "gp_emergencyphone_ESX": {
-    "newestVersion": "4.1.8",
+    "newestVersion": "4.1.9",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Fixed Script Error when resetting the control center!"
+      "new": [
+        "➥ Added support for qs-pro (only non-unique phones are currently supported!)!",
+        "➥ Added support for stache phone!"
       ],
+      "fix": [],
       "changes": []
     }
   },
   "gp_emergencyphone_QB": {
-    "newestVersion": "4.2.3",
+    "newestVersion": "4.2.4",
     "changelogs": {
       "new": [
-        "➥ Added support for gksphone_v2!"
+        "➥ Added support for qs-pro (only non-unique phones are currently supported!)!",
+        "➥ Added support for stache phone!"
       ],
       "fix": [],
-      "changes":[
-        "➥ 1 new config options!"
-      ]
+      "changes":[]
     }
   },
   "gp_visum_ESX": {
