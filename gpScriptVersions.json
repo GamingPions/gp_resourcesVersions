@@ -60,22 +60,20 @@
     }
   },
   "gp_emergencyphone_ESX": {
-    "newestVersion": "4.1.9",
+    "newestVersion": "4.2.0",
     "changelogs": {
-      "new": [
-        "➥ Added support for qs-pro (only non-unique phones are currently supported!)!",
-        "➥ Added support for stache phone!"
-      ],
+      "new": [],
       "fix": [],
-      "changes": []
+      "changes": [
+        "➥ Restructured Code for Config.returnControlCenterOnDeath option (no need to update if everything works)"
+      ]
     }
   },
   "gp_emergencyphone_QB": {
-    "newestVersion": "4.2.4",
+    "newestVersion": "4.2.5",
     "changelogs": {
       "new": [
-        "➥ Added support for qs-pro (only non-unique phones are currently supported!)!",
-        "➥ Added support for stache phone!"
+        "➥ Added Config.returnControlCenterOnDeath and Config.returnControlCenterOnLastStand"
       ],
       "fix": [],
       "changes":[]
