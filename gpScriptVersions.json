@@ -1,4 +1,12 @@
 {
+  "gp_Clothingshop": {
+    "newestVersion": "1.0.1",
+    "changelogs": {
+      "new": [],
+      "fix": [],
+      "changes":[]
+    }
+  },
   "gp_AdventCalendar": {
     "newestVersion": "1.0.2",
     "changelogs": {
