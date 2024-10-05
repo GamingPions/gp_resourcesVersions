@@ -78,12 +78,12 @@
     }
   },
   "gp_emergencyphone_QB": {
-    "newestVersion": "4.2.5",
+    "newestVersion": "4.2.6",
     "changelogs": {
-      "new": [
-        "➥ Added Config.returnControlCenterOnDeath and Config.returnControlCenterOnLastStand"
+      "new": [],
+      "fix": [
+        "➥ attempt to concatenate a nil value (field 'numberDB')"
       ],
-      "fix": [],
       "changes":[]
     }
   },
