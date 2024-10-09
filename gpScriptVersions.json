@@ -79,7 +79,7 @@
     }
   },
   "gp_emergencyphone_QB": {
-    "newestVersion": "4.2.7",
+    "newestVersion": "4.2.6",
     "changelogs": {
       "new": [
         "➥ Added compability for NPWD",
