@@ -64,20 +64,20 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.2.4",
+    "newestVersion": "1.2.5",
     "changelogs": {
       "new": [
-        "➥ Added Mail-Function for okokPhone"
+        "➥ Option added to exclude inactive vehicles from taxes"
       ],
       "fix": [],
       "changes":[]
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.2.5",
+    "newestVersion": "1.2.6",
     "changelogs": {
       "new": [
-        "➥ Added Mail-Function for okokPhone"
+        "➥ Option added to exclude inactive vehicles from taxes"
       ],
       "fix": [],
       "changes":[]
