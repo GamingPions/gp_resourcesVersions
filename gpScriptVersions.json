@@ -106,22 +106,22 @@
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.9.2",
+    "newestVersion": "1.9.3",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Vehicle menu only opens after pressing the key several times"
+        "➥ Vehicle spawns in wrong routing bucket while using rcore_clothing (char creator)"
       ],
       "changes":[]
     }
   },
   "gp_visum_QB": {
-    "newestVersion": "2.0.7",
+    "newestVersion": "2.0.8",
     "changelogs": {
-      "new": [
-        "➥ Added support for not deleting visum vehicles after visum end"
+      "new": [],
+      "fix": [
+        "➥ Vehicle spawns in wrong routing bucket while using rcore_clothing (char creator)"
       ],
-      "fix": [],
       "changes":[]
     }
   },
