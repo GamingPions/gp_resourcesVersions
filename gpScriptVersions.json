@@ -69,9 +69,7 @@
       "new": [
         "➥ Added ySeries EMail function"
       ],
-      "fix": [
-        "➥ Fixed missing comma in shared_functions leading to script crash on start"
-      ],
+      "fix": [],
       "changes":[]
     }
   },
