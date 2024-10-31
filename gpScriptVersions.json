@@ -74,12 +74,12 @@
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.2.6",
+    "newestVersion": "1.2.7",
     "changelogs": {
-      "new": [
-        "➥ Option added to exclude inactive vehicles from taxes"
+      "new": [],
+      "fix": [
+        "➥ Fixed missing comma in shared_functions leading to script crash on start"
       ],
-      "fix": [],
       "changes":[]
     }
   },
