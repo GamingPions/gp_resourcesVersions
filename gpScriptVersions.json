@@ -64,23 +64,21 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.2.6",
+    "newestVersion": "1.2.7",
     "changelogs": {
-      "new": [
-        "➥ Added ySeries EMail function"
+      "new": [],
+      "fix": [
+        "➥ Fixed script crash on tax deduction for missing last_seen / last_updated values"
       ],
-      "fix": [],
       "changes":[]
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.2.7",
+    "newestVersion": "1.2.8",
     "changelogs": {
-      "new": [
-        "➥ Added ySeries EMail function"
-      ],
+      "new": [],
       "fix": [
-        "➥ Fixed missing comma in shared_functions leading to script crash on start"
+        "➥ Fixed script crash on tax deduction for missing last_seen / last_updated values"
       ],
       "changes":[]
     }
