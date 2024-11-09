@@ -38,12 +38,12 @@
     }
   },
   "gp_InsuranceSystem": {
-    "newestVersion": "1.1.5",
+    "newestVersion": "1.1.6",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Fixed: No players shown to insure - only on the newest modified es_extended from Quasar for the qs-inventory",
+      "new": [
+        "➥ Added export to open Emloyee Menu",
       ],
+      "fix": [],
       "changes":[]
     }
   },
