@@ -38,12 +38,12 @@
     }
   },
   "gp_InsuranceSystem": {
-    "newestVersion": "1.1.6",
+    "newestVersion": "1.1.7",
     "changelogs": {
-      "new": [
-        "➥ Added export to open Emloyee Menu",
+      "new": [],
+      "fix": [
+          "➥ Fixed error [ERROR] Job insurance doesn't exist! Job will not work! even if Config.InsuranceJob.UseInsuranceJob set to false",
       ],
-      "fix": [],
       "changes":[]
     }
   },
