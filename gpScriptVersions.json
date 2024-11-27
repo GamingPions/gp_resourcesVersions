@@ -1,25 +1,13 @@
 {
   "gp_Clothingshop": {
-    "newestVersion": "1.0.1",
+    "newestVersion": "1.0.2",
     "changelogs": {
-      "new": [
-        "➥ Added Job Wardrobes: ",
-          "➥ Easy management for Job Clothing",
-          "➥ Outfits for each rank",
-          "➥ Custom Outfitnames",
-          "➥ Custom prices for job outfits",
-          "➥ Removing Outfits",
-        "➥ Added Create Button for Job wardrobes in Ingame Creator",
-            "➥ Set Wardrobename, Job and location",
-        "➥ Added: Outfits can now be saved after purchase in Clothingshop",
-            "➥ Outfit can be saved for private closet, job or both!",
-        "➥ Added Refresh Button in creator if no shop where wrongly found",
-      ],
+      "new": [],
       "fix": [
-        "➥ Fixed upcoming Bugs for QB"
+        "➥ Fixed errors caused by updated skinchanger resource [ESX only]"
       ],
       "changes":[
-        "➥ Design if no Shop, Wardrobe etc. found in creator"
+        "➥ Removed unused code"
       ]
     }
   },
