@@ -12,17 +12,18 @@
     }
   },
   "gp_AdventCalendar": {
-    "newestVersion": "1.0.2",
+    "newestVersion": "1.0.3",
     "changelogs": {
       "new": [
-        "➥ Added SharedFunctions.openedCalendar()",
-        "➥ Added SharedFunctions.closedCalendar()",
-        "➥ Added translations to config for UI messages",
+        "➥ Added command to reset calendar for a player: /resetCalendar source",
+        "➥ Added command to reset calendar for all players: /resetCalendarAll"
       ],
       "fix": [
-        "➥ Fixed UI time until new gift"
+        "➥ Minor bug fixes"
       ],
-      "changes":[]
+      "changes":[
+        "➥ Time until the next gift adjusted if it is not yet december"
+      ]
     }
   },
   "gp_InsuranceSystem": {
