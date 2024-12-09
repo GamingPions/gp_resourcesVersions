@@ -53,33 +53,31 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.2.8",
+    "newestVersion": "1.2.9",
     "changelogs": {
       "new": [
-        "➥ Added webhook/logging of testing the taxsystem",
-        "➥ Added webhook/logging of tax deduction"
+        "➥ Added support for PEFCL (Free Banking System)"
       ],
       "fix": [
-        "➥ Fixed nil value for userinput as default value for split settings edit option",
-        "➥ Fixed crash on changing different values via ingame menu",
         "➥ Fixed some minor bugs"
       ],
-      "changes":[]
+      "changes":[
+        "➥ Reworked mail system for better overview"
+      ]
     }
   },
   "gp_taxSystem_QB": {
     "newestVersion": "1.2.9",
     "changelogs": {
       "new": [
-        "➥ Added webhook/logging of testing the taxsystem",
-        "➥ Added webhook/logging of tax deduction"
+        "➥ Added support for PEFCL (Free Banking System)"
       ],
       "fix": [
-        "➥ Fixed nil value for userinput as default value for split settings edit option",
-        "➥ Fixed crash on changing different values via ingame menu",
         "➥ Fixed some minor bugs"
       ],
-      "changes":[]
+      "changes":[
+        "➥ Reworked mail system for better overview"
+      ]
     }
   },
   "gp_emergencyphone_ESX": {
