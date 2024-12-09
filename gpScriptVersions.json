@@ -67,7 +67,7 @@
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.2.9",
+    "newestVersion": "1.3.0",
     "changelogs": {
       "new": [
         "➥ Added support for PEFCL (Free Banking System)"
