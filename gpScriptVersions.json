@@ -53,25 +53,21 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.2.9",
-    "changelogs": {
-      "new": [
-        "➥ Added support for PEFCL (Free Banking System)"
-      ],
-      "fix": [
-        "➥ Fixed some minor bugs"
-      ],
-      "changes":[
-        "➥ Reworked mail system for better overview"
-      ]
-    }
-  },
-  "gp_taxSystem_QB": {
-    "newestVersion": "1.3.1",
+    "newestVersion": "1.3.0",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed error 'Unknown column 'owner' in 'where clause'' for player_vehicles"
+        "➥ Fixed nil value error on playerTotalVehicles variable"
+      ],
+      "changes":[]
+    }
+  },
+  "gp_taxSystem_QB": {
+    "newestVersion": "1.3.2",
+    "changelogs": {
+      "new": [],
+      "fix": [
+        "➥ Fixed error attempt to index a number value on tax deduction"
       ],
       "changes":[]
     }
