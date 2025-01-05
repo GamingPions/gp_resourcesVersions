@@ -27,12 +27,12 @@
     }
   },
   "gp_InsuranceSystem": {
-    "newestVersion": "1.1.7",
+    "newestVersion": "1.1.8",
     "changelogs": {
-      "new": [],
-      "fix": [
-          "➥ Fixed error [ERROR] Job insurance doesn't exist! Job will not work! even if Config.InsuranceJob.UseInsuranceJob set to false",
+      "new": [
+        "➥ Config option added when purchasing insurance to pay the full price + processing fees directly."
       ],
+      "fix": [],
       "changes":[]
     }
   },
