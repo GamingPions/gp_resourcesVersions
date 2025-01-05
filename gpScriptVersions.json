@@ -73,22 +73,20 @@
     }
   },
   "gp_emergencyphone_ESX": {
-    "newestVersion": "4.2.1",
+    "newestVersion": "4.2.2",
     "changelogs": {
       "new": [
-        "➥ Added compability for NPWD",
-        "➥ Added compability for ySeries Phone"
+        "➥ Added new change number export for gksphone v2"
       ],
       "fix": [],
       "changes": []
     }
   },
   "gp_emergencyphone_QB": {
-    "newestVersion": "4.2.6",
+    "newestVersion": "4.2.7",
     "changelogs": {
       "new": [
-        "➥ Added compability for NPWD",
-        "➥ Added compability for ySeries Phone"
+        "➥ Added new change number export for gksphone v2"
       ],
       "fix": [],
       "changes":[]
