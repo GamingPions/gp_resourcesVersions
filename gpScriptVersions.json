@@ -53,21 +53,23 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.3.0",
+    "newestVersion": "1.3.1",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed nil value error on playerTotalVehicles variable"
+        "➥ Fixed bug where all vehicles are ignored in tax deduction",
+        "➥ Fixed SQL house query for quasar housing"
       ],
       "changes":[]
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.3.3",
+    "newestVersion": "1.3.4",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed error attempt to index a nil value (variable player) on tax deduction"
+        "➥ Fixed bug where all vehicles are ignored in tax deduction",
+        "➥ Fixed SQL house query for quasar housing"
       ],
       "changes":[]
     }
