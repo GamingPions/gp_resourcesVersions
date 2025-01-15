@@ -53,25 +53,28 @@
     }
   },
   "gp_taxSystem_ESX": {
-    "newestVersion": "1.3.1",
+    "newestVersion": "1.3.2",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed bug where all vehicles are ignored in tax deduction",
-        "➥ Fixed SQL house query for quasar housing"
+        "➥ Fixed wrong array key value for gksphone email system"
       ],
-      "changes":[]
+      "changes":[
+        "➥ Changed code for housing system selection in Config",
+      ]
     }
   },
   "gp_taxSystem_QB": {
-    "newestVersion": "1.3.4",
+    "newestVersion": "1.3.5",
     "changelogs": {
       "new": [],
       "fix": [
-        "➥ Fixed bug where all vehicles are ignored in tax deduction",
-        "➥ Fixed SQL house query for quasar housing"
+        "➥ Fixed bug where player was a nil value on script startup (sorry for that)",
+        "➥ Fixed wrong array key value for gksphone email system"
       ],
-      "changes":[]
+      "changes":[
+        "➥ Changed code for housing system selection in Config",
+      ]
     }
   },
   "gp_emergencyphone_ESX": {
