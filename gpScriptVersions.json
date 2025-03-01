@@ -98,21 +98,23 @@
     }
   },
   "gp_visum_ESX": {
-    "newestVersion": "1.9.3",
+    "newestVersion": "1.9.4",
     "changelogs": {
-      "new": [],
-      "fix": [
-        "➥ Vehicle spawns in wrong routing bucket while using rcore_clothing (char creator)"
+      "new": [
+        "➥ Config option to teleport players to location after visa is expired"
       ],
+      "fix": [],
       "changes":[]
     }
   },
   "gp_visum_QB": {
-    "newestVersion": "2.0.8",
+    "newestVersion": "2.0.9",
     "changelogs": {
-      "new": [],
+      "new": [
+        "➥ Config option to teleport players to location after visa is expired"
+      ],
       "fix": [
-        "➥ Vehicle spawns in wrong routing bucket while using rcore_clothing (char creator)"
+        "➥ Info message on server join to get informed on left visum time"
       ],
       "changes":[]
     }
