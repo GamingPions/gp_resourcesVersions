@@ -27,12 +27,12 @@
     }
   },
   "gp_InsuranceSystem": {
-    "newestVersion": "1.1.8",
+    "newestVersion": "1.2.0",
     "changelogs": {
-      "new": [
-        "➥ Config option added when purchasing insurance to pay the full price + processing fees directly."
+      "new": [],
+      "fix": [
+        "➥ Fixed an error trying to interact with the NPC"
       ],
-      "fix": [],
       "changes":[]
     }
   },
